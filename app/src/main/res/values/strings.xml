@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ElipseExpress</string>
+    <string name="facebook_app_id">621308328026023</string>
+    <string name="welcome">Welcome to EclipseExpress</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="register_detail">Dont have an account? Register!!!</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">twitter</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="uername">User name</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="getstarted">Get Started</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+</resources>
